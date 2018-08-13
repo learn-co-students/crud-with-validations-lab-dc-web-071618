@@ -1,0 +1,1 @@
+songs = Song.create([{title: 'Slow Burn', released: true, release_year: 2018, artist_name: 'Kacey Musgraves', genre: 'country'}, {title: 'Grand Canyon', released: true, release_year: 2016, artist_name: 'The Wind and The Wave', genre: 'folk'}])
